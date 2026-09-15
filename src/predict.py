@@ -17,13 +17,16 @@ def predict(text):
     abusive_vector = abusive_vectorizer.transform([clean_text])
 
     restricted_vector = restricted_vectorizer.transform([clean_text])
-
+    abusive = abusive_model.predict(abusive_vector)[0]
     abusive_score = abusive_model.predict_proba(abusive_vector)[0][1]
-
+    restricted = restricted_model.predict(restricted_vector)[0]
     restricted_score = restricted_model.predict_proba(restricted_vector)[0][1]
-
+    # print("abusive", abusive)
+    # print("restricted", restricted)
     return {
+        "abusive": abusive,
         "abusive_score": round(abusive_score, 2),
+        "restricted": restricted,
         "restricted_score": round(restricted_score, 2),
     }
 

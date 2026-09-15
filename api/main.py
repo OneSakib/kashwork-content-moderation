@@ -14,6 +14,20 @@ class InputData(BaseModel):
     text: str = "hp laptop with 8gm ram and 500gb hdd"
 
 
-@app.post("/predict")
-def predict_route(input_data: InputData):
-    return predict(input_data.text)
+class PredictResponse(BaseModel):
+    abusive: int
+    abusive_score: float
+    restricted: int
+    restricted_score: float
+
+
+@app.post("/predict", response_model=PredictResponse)
+def predict_route(input_data: InputData) -> PredictResponse:
+    predicted = predict(input_data.text)
+    response = PredictResponse(
+        abusive=predicted["abusive"],
+        abusive_score=predicted["abusive_score"],
+        restricted=predicted["restricted"],
+        restricted_score=predicted["restricted_score"],
+    )
+    return response
