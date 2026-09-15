@@ -7,3 +7,4 @@ nltk
 joblib 
 fastapi 
 uvicorn
+ipykernel
