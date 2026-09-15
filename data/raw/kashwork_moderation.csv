@@ -1,0 +1,1051 @@
+text,is_abusive,is_restricted,category
+Durable coffee table for home and office,0,0,furniture
+Nova laptop with 8GB RAM,0,0,laptop
+football for fitness and training,0,0,sports
+Durable fitness gloves for outdoor activities,0,0,sports
+Prohibited narcotic product listed for purchase at a discounted price,0,1,restricted_drug
+Professional quality fitness gloves for sports use,0,0,sports
+Vertex laptop with 8GB RAM,0,0,laptop
+Popular language learning book covering useful topics,0,0,books
+Women's hoodie with comfortable cotton fabric,0,0,clothing
+Popular fiction novel covering useful topics,0,0,books
+Controlled medical product advertised for direct sale with home delivery,0,1,restricted_medicine
+Durable study desk for home and office,0,0,furniture
+Durable cycling helmet for outdoor activities,0,0,sports
+cricket bat for fitness and training,0,0,sports
+Premium wall clock with practical design,0,0,home
+Seller uses insulting language toward customers,1,0,abusive
+Popular Python programming book covering useful topics,0,0,books
+Description contains threatening and abusive wording,1,0,abusive
+Seller description: alcohol beverage offered for sale,0,1,restricted_alcohol
+fitness gloves for fitness and training,0,0,sports
+curtain set for everyday household use,0,0,home
+High performance laptop with dual cameras,0,0,laptop
+Premium curtain set with practical design,0,0,home
+Seller uses insulting language toward customers,1,0,abusive
+Restricted tobacco product offered for sale with home delivery,0,1,restricted_tobacco
+Premium kitchen organizer with practical design,0,0,home
+Seller uses insulting language toward customers,1,0,abusive
+Seller description: restricted weapon product offered for sale,0,1,restricted_weapon
+Stylish office chair with a leather-style finish,0,0,furniture
+Portable computer mouse designed for everyday use,0,0,electronics
+Professional quality fitness gloves for sports use,0,0,sports
+Professional quality cycling helmet for sports use,0,0,sports
+Educational mathematics workbook in paperback format,0,0,books
+Durable wardrobe for home and office,0,0,furniture
+Premium Vertex smartphone with 8GB RAM,0,0,mobile
+Professional quality resistance bands for sports use,0,0,sports
+Portable keyboard designed for everyday use,0,0,electronics
+Nova smartphone with fast charging and long battery life,0,0,mobile
+Popular language learning book covering useful topics,0,0,books
+This product listing contains a personal attack,1,0,abusive
+Description contains threatening and abusive wording,1,0,abusive
+Educational mathematics workbook in paperback format,0,0,books
+Durable wall clock for modern homes,0,0,home
+Seller description: illegal drug product advertised for sale,0,1,restricted_drug
+cycling helmet for fitness and training,0,0,sports
+Women's cotton shirt with comfortable leather-style fabric,0,0,clothing
+Premium storage box with practical design,0,0,home
+webcam with dual cameras,0,0,electronics
+Premium PixelPro smartphone with dual cameras,0,0,mobile
+cricket bat for fitness and training,0,0,sports
+Durable kitchen organizer for modern homes,0,0,home
+desk lamp for everyday household use,0,0,home
+football for fitness and training,0,0,sports
+smartwatch with 8GB RAM,0,0,electronics
+Durable storage box for modern homes,0,0,home
+Durable cycling helmet for outdoor activities,0,0,sports
+Online listing: prohibited explosive product advertised online,0,1,restricted_explosive
+Prohibited explosive product advertised online,0,1,restricted_explosive
+Python programming book for students and professionals,0,0,books
+Men's sweater in leather-style,0,0,clothing
+cycling helmet for fitness and training,0,0,sports
+Description includes inappropriate and insulting wording,1,0,abusive
+Portable keyboard designed for everyday use,0,0,electronics
+Women's casual jacket with comfortable cotton fabric,0,0,clothing
+Durable bookshelf for home and office,0,0,furniture
+storage box for everyday household use,0,0,home
+Durable fitness gloves for outdoor activities,0,0,sports
+Online listing: alcohol beverage offered for sale,0,1,restricted_alcohol
+Business laptop featuring high resolution display,0,0,laptop
+Durable yoga mat for outdoor activities,0,0,sports
+Women's polo shirt with comfortable wood fabric,0,0,clothing
+Seller message contains harassment toward the buyer,1,0,abusive
+Women's summer dress with comfortable cotton fabric,0,0,clothing
+Nova laptop with 8GB RAM,0,0,laptop
+data science guide for students and professionals,0,0,books
+Online listing: other regulated product requiring authorization,0,1,restricted_other
+Description includes inappropriate and insulting wording,1,0,abusive
+Educational Python programming book in paperback format,0,0,books
+Men's casual jacket in bamboo,0,0,clothing
+Premium Orbit smartphone with lightweight design,0,0,mobile
+This product listing contains a personal attack,1,0,abusive
+Description contains threatening and abusive wording,1,0,abusive
+Vertex laptop with long battery life,0,0,laptop
+Durable storage box for modern homes,0,0,home
+Zen smartphone with 8GB RAM and long battery life,0,0,mobile
+Popular Python programming book covering useful topics,0,0,books
+Casual hoodie for everyday wear,0,0,clothing
+Controlled medical product advertised for direct sale with home delivery,0,1,restricted_medicine
+Restricted tobacco product offered for sale,0,1,restricted_tobacco
+keyboard with high resolution display,0,0,electronics
+Modern office chair made from cotton,0,0,furniture
+Online listing: illegal drug product advertised for sale,0,1,restricted_drug
+yoga mat for fitness and training,0,0,sports
+Professional quality fitness gloves for sports use,0,0,sports
+Durable desk lamp for modern homes,0,0,home
+Portable keyboard designed for everyday use,0,0,electronics
+Nova smartphone with fast charging and long battery life,0,0,mobile
+Description contains threatening and abusive wording,1,0,abusive
+Durable office chair for home and office,0,0,furniture
+Men's cotton shirt in bamboo,0,0,clothing
+Educational mathematics workbook in paperback format,0,0,books
+Educational business management book in paperback format,0,0,books
+Durable cricket bat for outdoor activities,0,0,sports
+desk lamp for everyday household use,0,0,home
+Product text contains repeated offensive language Please review this listing.,1,0,abusive
+wall clock for everyday household use,0,0,home
+Men's hoodie in cotton,0,0,clothing
+Latest Vertex mobile phone featuring high resolution display,0,0,mobile
+This product listing contains a personal attack,1,0,abusive
+Prohibited explosive product advertised online at a discounted price,0,1,restricted_explosive
+Women's casual jacket with comfortable metal fabric,0,0,clothing
+Orbit laptop with dual cameras,0,0,laptop
+Women's cotton shirt with comfortable leather-style fabric,0,0,clothing
+Seller uses insulting language toward customers,1,0,abusive
+Portable USB hub designed for everyday use,0,0,electronics
+Durable wall clock for modern homes,0,0,home
+This product listing contains a personal attack,1,0,abusive
+bedsheet set for everyday household use,0,0,home
+Online listing: alcohol beverage offered for sale,0,1,restricted_alcohol
+Popular fiction novel covering useful topics,0,0,books
+Premium Aster smartphone with high resolution display,0,0,mobile
+Women's hoodie with comfortable cotton fabric,0,0,clothing
+Orbit laptop with lightweight design,0,0,laptop
+Premium desk lamp with practical design,0,0,home
+Educational history book in paperback format,0,0,books
+Stylish wardrobe with a bamboo finish,0,0,furniture
+Women's sweater with comfortable bamboo fabric,0,0,clothing
+Women's casual jacket with comfortable leather-style fabric,0,0,clothing
+Apex smartphone with 8GB RAM and long battery life,0,0,mobile
+Online listing: prohibited narcotic product listed for purchase,0,1,restricted_drug
+Online listing: prohibited narcotic product listed for purchase,0,1,restricted_drug
+Smart webcam featuring Bluetooth connectivity,0,0,electronics
+Stylish bedside table with a cotton finish,0,0,furniture
+Orbit laptop with dual cameras,0,0,laptop
+Men's trousers in metal,0,0,clothing
+running shoes for fitness and training,0,0,sports
+This product listing contains a personal attack Please review this listing.,1,0,abusive
+Professional quality yoga mat for sports use,0,0,sports
+Controlled medical product advertised for direct sale,0,1,restricted_medicine
+Stylish office chair with a leather-style finish,0,0,furniture
+Stylish bookshelf with a cotton finish,0,0,furniture
+Product text contains repeated offensive language,1,0,abusive
+yoga mat for fitness and training,0,0,sports
+data science guide for students and professionals,0,0,books
+keyboard with 8GB RAM,0,0,electronics
+Seller has added inappropriate insults to the description,1,0,abusive
+Women's hoodie with comfortable wood fabric,0,0,clothing
+Prohibited explosive product advertised online at a discounted price,0,1,restricted_explosive
+Durable storage box for modern homes,0,0,home
+Modern wardrobe made from cotton,0,0,furniture
+Modern coffee table made from wood,0,0,furniture
+Casual cotton shirt for everyday wear,0,0,clothing
+Restricted weapon product offered for sale at a discounted price,0,1,restricted_weapon
+Modern wardrobe made from cotton,0,0,furniture
+Portable computer mouse designed for everyday use,0,0,electronics
+Smart USB hub featuring 8GB RAM,0,0,electronics
+Durable wall clock for modern homes,0,0,home
+Online listing: explosive material offered for sale,0,1,restricted_explosive
+Latest Apex mobile phone featuring dual cameras,0,0,mobile
+Latest Aster mobile phone featuring Bluetooth connectivity,0,0,mobile
+Portable smartwatch designed for everyday use,0,0,electronics
+Business laptop featuring wireless support,0,0,laptop
+Casual sweater for everyday wear,0,0,clothing
+Durable bedside table for home and office,0,0,furniture
+Smart smartwatch featuring wireless support,0,0,electronics
+Professional quality running shoes for sports use,0,0,sports
+Portable Bluetooth speaker designed for everyday use,0,0,electronics
+Zen smartphone with lightweight design and long battery life,0,0,mobile
+Stylish wardrobe with a metal finish,0,0,furniture
+Seller description: prohibited weapon item advertised for purchase,0,1,restricted_weapon
+Durable running shoes for outdoor activities,0,0,sports
+Durable coffee table for home and office,0,0,furniture
+Online listing: prohibited weapon item advertised for purchase,0,1,restricted_weapon
+Product description contains abusive language,1,0,abusive
+Premium bedsheet set with practical design,0,0,home
+Orbit smartphone with 8GB RAM and long battery life,0,0,mobile
+Orbit smartphone with 8GB RAM and long battery life,0,0,mobile
+Educational fiction novel in paperback format,0,0,books
+High performance laptop with long battery life,0,0,laptop
+Professional quality cricket bat for sports use,0,0,sports
+Women's hoodie with comfortable leather-style fabric,0,0,clothing
+Controlled medical product advertised for direct sale with home delivery,0,1,restricted_medicine
+Premium kitchen organizer with practical design,0,0,home
+Modern study desk made from bamboo,0,0,furniture
+Portable keyboard designed for everyday use,0,0,electronics
+This listing contains an offensive personal insult Please review this listing.,1,0,abusive
+desk lamp for everyday household use,0,0,home
+Product text contains repeated offensive language,1,0,abusive
+Nova laptop with lightweight design,0,0,laptop
+Aster smartphone with dual cameras and long battery life,0,0,mobile
+Latest Aster mobile phone featuring 8GB RAM,0,0,mobile
+High performance laptop with dual cameras,0,0,laptop
+Description contains threatening and abusive wording,1,0,abusive
+Illegal drug product advertised for sale,0,1,restricted_drug
+Seller description: other regulated product requiring authorization,0,1,restricted_other
+Modern wardrobe made from metal,0,0,furniture
+Modern coffee table made from metal,0,0,furniture
+Educational mathematics workbook in paperback format,0,0,books
+Orbit laptop with Bluetooth connectivity,0,0,laptop
+Seller uses insulting language toward customers,1,0,abusive
+Durable office chair for home and office,0,0,furniture
+data science guide for students and professionals,0,0,books
+Modern study desk made from cotton,0,0,furniture
+Seller description: prescription-only medicine offered without proper authorization,0,1,restricted_medicine
+Durable curtain set for modern homes,0,0,home
+Women's casual jacket with comfortable bamboo fabric,0,0,clothing
+Stylish wardrobe with a leather-style finish,0,0,furniture
+Educational language learning book in paperback format,0,0,books
+Prohibited weapon item advertised for purchase with home delivery,0,1,restricted_weapon
+data science guide for students and professionals,0,0,books
+Online listing: restricted weapon product offered for sale,0,1,restricted_weapon
+Durable wall clock for modern homes,0,0,home
+Description includes inappropriate and insulting wording Please review this listing.,1,0,abusive
+Modern study desk made from leather-style,0,0,furniture
+Business laptop featuring high resolution display,0,0,laptop
+kitchen organizer for everyday household use,0,0,home
+Business laptop featuring 8GB RAM,0,0,laptop
+Seller description: prohibited weapon item advertised for purchase,0,1,restricted_weapon
+webcam with long battery life,0,0,electronics
+cricket bat for fitness and training,0,0,sports
+Illegal drug product advertised for sale with home delivery,0,1,restricted_drug
+business management book for students and professionals,0,0,books
+Portable USB hub designed for everyday use,0,0,electronics
+Seller message contains harassment toward the buyer Please review this listing.,1,0,abusive
+Restricted tobacco product offered for sale,0,1,restricted_tobacco
+Seller description: other regulated product requiring authorization,0,1,restricted_other
+Online listing: illegal drug product advertised for sale,0,1,restricted_drug
+data science guide for students and professionals,0,0,books
+Women's casual jacket with comfortable bamboo fabric,0,0,clothing
+Durable yoga mat for outdoor activities,0,0,sports
+Premium Lumina smartphone with long battery life,0,0,mobile
+Premium kitchen organizer with practical design,0,0,home
+Professional quality football for sports use,0,0,sports
+desk lamp for everyday household use,0,0,home
+Premium Lumina smartphone with long battery life,0,0,mobile
+Durable football for outdoor activities,0,0,sports
+Professional quality cycling helmet for sports use,0,0,sports
+Prohibited narcotic product listed for purchase,0,1,restricted_drug
+Educational fiction novel in paperback format,0,0,books
+This listing contains an offensive personal insult,1,0,abusive
+Modern office chair made from bamboo,0,0,furniture
+Durable bookshelf for home and office,0,0,furniture
+Restricted weapon product offered for sale,0,1,restricted_weapon
+High performance laptop with lightweight design,0,0,laptop
+This product listing contains a personal attack Please review this listing.,1,0,abusive
+resistance bands for fitness and training,0,0,sports
+Zen laptop with fast charging,0,0,laptop
+Controlled medical product advertised for direct sale with home delivery,0,1,restricted_medicine
+This listing contains an offensive personal insult,1,0,abusive
+Product text contains repeated offensive language,1,0,abusive
+webcam with dual cameras,0,0,electronics
+Portable Bluetooth speaker designed for everyday use,0,0,electronics
+Vertex smartphone with long battery life and long battery life,0,0,mobile
+Women's casual jacket with comfortable metal fabric,0,0,clothing
+High performance laptop with dual cameras,0,0,laptop
+Smart wireless headphones featuring long battery life,0,0,electronics
+Men's hoodie in leather-style,0,0,clothing
+Restricted tobacco product offered for sale at a discounted price,0,1,restricted_tobacco
+Popular business management book covering useful topics,0,0,books
+Premium Vertex smartphone with dual cameras,0,0,mobile
+PixelPro smartphone with long battery life and long battery life,0,0,mobile
+Latest PixelPro mobile phone featuring lightweight design,0,0,mobile
+High performance laptop with dual cameras,0,0,laptop
+Seller uses insulting language toward customers,1,0,abusive
+USB hub with dual cameras,0,0,electronics
+keyboard with 8GB RAM,0,0,electronics
+Product text contains repeated offensive language,1,0,abusive
+Stylish bedside table with a cotton finish,0,0,furniture
+Durable curtain set for modern homes,0,0,home
+Durable water bottle for modern homes,0,0,home
+Educational history book in paperback format,0,0,books
+Listing text violates the platform language policy,1,0,abusive
+Lumina smartphone with wireless support and long battery life,0,0,mobile
+Online listing: prescription-only medicine offered without proper authorization,0,1,restricted_medicine
+Latest Orbit mobile phone featuring long battery life,0,0,mobile
+Vertex smartphone with wireless support and long battery life,0,0,mobile
+Business laptop featuring fast charging,0,0,laptop
+Alcohol beverage offered for sale at a discounted price,0,1,restricted_alcohol
+Seller message contains harassment toward the buyer Please review this listing.,1,0,abusive
+yoga mat for fitness and training,0,0,sports
+Durable kitchen organizer for modern homes,0,0,home
+Restricted weapon product offered for sale at a discounted price,0,1,restricted_weapon
+Business laptop featuring long battery life,0,0,laptop
+Seller message contains harassment toward the buyer,1,0,abusive
+Seller description: prohibited explosive product advertised online,0,1,restricted_explosive
+Bluetooth speaker with wireless support,0,0,electronics
+webcam with lightweight design,0,0,electronics
+High performance laptop with dual cameras,0,0,laptop
+Professional quality football for sports use,0,0,sports
+Vertex smartphone with lightweight design and long battery life,0,0,mobile
+Men's cotton shirt in bamboo,0,0,clothing
+Durable kitchen organizer for modern homes,0,0,home
+Prohibited explosive product advertised online,0,1,restricted_explosive
+Business laptop featuring wireless support,0,0,laptop
+Business laptop featuring high resolution display,0,0,laptop
+Online listing: explosive material offered for sale,0,1,restricted_explosive
+Professional quality running shoes for sports use,0,0,sports
+Durable cricket bat for outdoor activities,0,0,sports
+business management book for students and professionals,0,0,books
+Seller has added inappropriate insults to the description,1,0,abusive
+Latest Zen mobile phone featuring wireless support,0,0,mobile
+Controlled medical product advertised for direct sale,0,1,restricted_medicine
+Description contains threatening and abusive wording,1,0,abusive
+Orbit laptop with Bluetooth connectivity,0,0,laptop
+Premium wall clock with practical design,0,0,home
+Orbit smartphone with 8GB RAM and long battery life,0,0,mobile
+Description includes inappropriate and insulting wording Please review this listing.,1,0,abusive
+running shoes for fitness and training,0,0,sports
+Educational Python programming book in paperback format,0,0,books
+Premium bedsheet set with practical design,0,0,home
+Stylish study desk with a metal finish,0,0,furniture
+Stylish office chair with a cotton finish,0,0,furniture
+Seller has added inappropriate insults to the description,1,0,abusive
+High performance laptop with high resolution display,0,0,laptop
+High performance laptop with 8GB RAM,0,0,laptop
+Description includes inappropriate and insulting wording,1,0,abusive
+Seller message contains harassment toward the buyer,1,0,abusive
+Durable cycling helmet for outdoor activities,0,0,sports
+Educational language learning book in paperback format,0,0,books
+Other regulated product requiring authorization at a discounted price,0,1,restricted_other
+High performance laptop with dual cameras,0,0,laptop
+Seller has added inappropriate insults to the description,1,0,abusive
+Online listing: restricted weapon product offered for sale,0,1,restricted_weapon
+Latest Lumina mobile phone featuring long battery life,0,0,mobile
+Restricted tobacco product offered for sale at a discounted price,0,1,restricted_tobacco
+Prohibited narcotic product listed for purchase at a discounted price,0,1,restricted_drug
+Listing text violates the platform language policy,1,0,abusive
+Casual summer dress for everyday wear,0,0,clothing
+Aster smartphone with lightweight design and long battery life,0,0,mobile
+Professional quality football for sports use,0,0,sports
+fitness gloves for fitness and training,0,0,sports
+Prohibited weapon item advertised for purchase at a discounted price,0,1,restricted_weapon
+Popular fiction novel covering useful topics,0,0,books
+smartwatch with fast charging,0,0,electronics
+Casual cotton shirt for everyday wear,0,0,clothing
+Professional quality cycling helmet for sports use,0,0,sports
+Popular fiction novel covering useful topics,0,0,books
+Online listing: prohibited narcotic product listed for purchase,0,1,restricted_drug
+Alcohol beverage offered for sale,0,1,restricted_alcohol
+Prohibited narcotic product listed for purchase at a discounted price,0,1,restricted_drug
+High performance laptop with lightweight design,0,0,laptop
+Modern wardrobe made from cotton,0,0,furniture
+Modern wardrobe made from leather-style,0,0,furniture
+Restricted tobacco product offered for sale with home delivery,0,1,restricted_tobacco
+Premium wall clock with practical design,0,0,home
+Apex laptop with 8GB RAM,0,0,laptop
+Seller description: other regulated product requiring authorization,0,1,restricted_other
+Durable cricket bat for outdoor activities,0,0,sports
+water bottle for everyday household use,0,0,home
+Premium kitchen organizer with practical design,0,0,home
+Casual polo shirt for everyday wear,0,0,clothing
+wireless headphones with wireless support,0,0,electronics
+Latest Lumina mobile phone featuring high resolution display,0,0,mobile
+wireless headphones with dual cameras,0,0,electronics
+USB hub with lightweight design,0,0,electronics
+Seller description: illegal drug product advertised for sale,0,1,restricted_drug
+Description includes inappropriate and insulting wording Please review this listing.,1,0,abusive
+Other regulated product requiring authorization with home delivery,0,1,restricted_other
+Other regulated product requiring authorization with home delivery,0,1,restricted_other
+Product text contains repeated offensive language,1,0,abusive
+Popular Python programming book covering useful topics,0,0,books
+Men's sweater in wood,0,0,clothing
+Seller message contains harassment toward the buyer,1,0,abusive
+Modern study desk made from cotton,0,0,furniture
+Men's hoodie in metal,0,0,clothing
+Smart computer mouse featuring wireless support,0,0,electronics
+Popular data science guide covering useful topics,0,0,books
+Popular business management book covering useful topics,0,0,books
+Women's cotton shirt with comfortable leather-style fabric,0,0,clothing
+Professional quality fitness gloves for sports use,0,0,sports
+Business laptop featuring fast charging,0,0,laptop
+Product description contains abusive language,1,0,abusive
+Prescription-only medicine offered without proper authorization,0,1,restricted_medicine
+Professional quality yoga mat for sports use,0,0,sports
+Premium Zen smartphone with lightweight design,0,0,mobile
+Stylish study desk with a wood finish,0,0,furniture
+Premium Nova smartphone with wireless support,0,0,mobile
+Women's casual jacket with comfortable wood fabric,0,0,clothing
+wall clock for everyday household use,0,0,home
+Business laptop featuring high resolution display,0,0,laptop
+Seller description: alcohol beverage offered for sale,0,1,restricted_alcohol
+This product listing contains a personal attack Please review this listing.,1,0,abusive
+cycling helmet for fitness and training,0,0,sports
+Explosive material offered for sale with home delivery,0,1,restricted_explosive
+Zen laptop with wireless support,0,0,laptop
+Casual sweater for everyday wear,0,0,clothing
+Seller description: explosive material offered for sale,0,1,restricted_explosive
+Women's sweater with comfortable leather-style fabric,0,0,clothing
+football for fitness and training,0,0,sports
+Casual polo shirt for everyday wear,0,0,clothing
+water bottle for everyday household use,0,0,home
+Durable dining table for home and office,0,0,furniture
+Description contains threatening and abusive wording,1,0,abusive
+Stylish bookshelf with a metal finish,0,0,furniture
+Smart computer mouse featuring 8GB RAM,0,0,electronics
+Vertex laptop with lightweight design,0,0,laptop
+Modern bookshelf made from bamboo,0,0,furniture
+Premium Aster smartphone with lightweight design,0,0,mobile
+Durable cricket bat for outdoor activities,0,0,sports
+This product listing contains a personal attack Please review this listing.,1,0,abusive
+Zen laptop with wireless support,0,0,laptop
+Latest Zen mobile phone featuring wireless support,0,0,mobile
+Product text contains repeated offensive language,1,0,abusive
+Modern wardrobe made from metal,0,0,furniture
+cricket bat for fitness and training,0,0,sports
+Listing text violates the platform language policy Please review this listing.,1,0,abusive
+Modern study desk made from metal,0,0,furniture
+Seller description: restricted tobacco product offered for sale,0,1,restricted_tobacco
+High performance laptop with lightweight design,0,0,laptop
+Men's casual jacket in wood,0,0,clothing
+Seller has added inappropriate insults to the description,1,0,abusive
+Controlled medical product advertised for direct sale with home delivery,0,1,restricted_medicine
+Durable office chair for home and office,0,0,furniture
+High performance laptop with Bluetooth connectivity,0,0,laptop
+Durable bedsheet set for modern homes,0,0,home
+Prescription-only medicine offered without proper authorization at a discounted price,0,1,restricted_medicine
+This listing contains an offensive personal insult Please review this listing.,1,0,abusive
+Durable study desk for home and office,0,0,furniture
+Apex smartphone with high resolution display and long battery life,0,0,mobile
+Men's sweater in cotton,0,0,clothing
+Women's casual jacket with comfortable bamboo fabric,0,0,clothing
+Online listing: restricted tobacco product offered for sale,0,1,restricted_tobacco
+Seller uses insulting language toward customers,1,0,abusive
+computer mouse with lightweight design,0,0,electronics
+Casual summer dress for everyday wear,0,0,clothing
+Stylish office chair with a metal finish,0,0,furniture
+Men's hoodie in leather-style,0,0,clothing
+Durable cycling helmet for outdoor activities,0,0,sports
+Business laptop featuring dual cameras,0,0,laptop
+Business laptop featuring high resolution display,0,0,laptop
+Prohibited narcotic product listed for purchase with home delivery,0,1,restricted_drug
+Durable kitchen organizer for modern homes,0,0,home
+mathematics workbook for students and professionals,0,0,books
+Zen smartphone with lightweight design and long battery life,0,0,mobile
+Other regulated product requiring authorization with home delivery,0,1,restricted_other
+Men's trousers in wood,0,0,clothing
+keyboard with 8GB RAM,0,0,electronics
+Vertex laptop with Bluetooth connectivity,0,0,laptop
+Men's cotton shirt in metal,0,0,clothing
+Premium kitchen organizer with practical design,0,0,home
+Business laptop featuring wireless support,0,0,laptop
+Latest Orbit mobile phone featuring Bluetooth connectivity,0,0,mobile
+Product description contains abusive language,1,0,abusive
+Durable cycling helmet for outdoor activities,0,0,sports
+Smart smartwatch featuring dual cameras,0,0,electronics
+Durable football for outdoor activities,0,0,sports
+Professional quality yoga mat for sports use,0,0,sports
+Description includes inappropriate and insulting wording,1,0,abusive
+Latest Vertex mobile phone featuring long battery life,0,0,mobile
+Orbit laptop with wireless support,0,0,laptop
+Durable running shoes for outdoor activities,0,0,sports
+webcam with lightweight design,0,0,electronics
+Prohibited narcotic product listed for purchase at a discounted price,0,1,restricted_drug
+Nova smartphone with lightweight design and long battery life,0,0,mobile
+High performance laptop with Bluetooth connectivity,0,0,laptop
+Prohibited weapon item advertised for purchase with home delivery,0,1,restricted_weapon
+Modern office chair made from bamboo,0,0,furniture
+cricket bat for fitness and training,0,0,sports
+Seller has added inappropriate insults to the description,1,0,abusive
+Premium storage box with practical design,0,0,home
+Durable bedside table for home and office,0,0,furniture
+High performance laptop with wireless support,0,0,laptop
+Vertex smartphone with wireless support and long battery life,0,0,mobile
+running shoes for fitness and training,0,0,sports
+Premium PixelPro smartphone with Bluetooth connectivity,0,0,mobile
+Stylish wardrobe with a bamboo finish,0,0,furniture
+Educational business management book in paperback format,0,0,books
+Modern bookshelf made from leather-style,0,0,furniture
+Men's hoodie in metal,0,0,clothing
+Smart smartwatch featuring wireless support,0,0,electronics
+Portable smartwatch designed for everyday use,0,0,electronics
+Popular mathematics workbook covering useful topics,0,0,books
+Stylish coffee table with a leather-style finish,0,0,furniture
+resistance bands for fitness and training,0,0,sports
+This listing contains an offensive personal insult,1,0,abusive
+Men's hoodie in leather-style,0,0,clothing
+Educational history book in paperback format,0,0,books
+Professional quality running shoes for sports use,0,0,sports
+Women's cotton shirt with comfortable cotton fabric,0,0,clothing
+Seller message contains harassment toward the buyer,1,0,abusive
+Online listing: illegal drug product advertised for sale,0,1,restricted_drug
+Premium Zen smartphone with dual cameras,0,0,mobile
+Smart Bluetooth speaker featuring Bluetooth connectivity,0,0,electronics
+Description contains threatening and abusive wording,1,0,abusive
+Online listing: controlled medical product advertised for direct sale,0,1,restricted_medicine
+Men's sweater in bamboo,0,0,clothing
+Casual summer dress for everyday wear,0,0,clothing
+Other regulated product requiring authorization,0,1,restricted_other
+Latest Aster mobile phone featuring long battery life,0,0,mobile
+Professional quality cycling helmet for sports use,0,0,sports
+PixelPro smartphone with 8GB RAM and long battery life,0,0,mobile
+High performance laptop with Bluetooth connectivity,0,0,laptop
+Seller has added inappropriate insults to the description,1,0,abusive
+water bottle for everyday household use,0,0,home
+Modern bedside table made from leather-style,0,0,furniture
+Men's cotton shirt in leather-style,0,0,clothing
+Educational language learning book in paperback format,0,0,books
+Seller uses insulting language toward customers Please review this listing.,1,0,abusive
+Smart webcam featuring fast charging,0,0,electronics
+Stylish bookshelf with a leather-style finish,0,0,furniture
+Men's trousers in metal,0,0,clothing
+Product description contains abusive language Please review this listing.,1,0,abusive
+Restricted tobacco product offered for sale at a discounted price,0,1,restricted_tobacco
+Explosive material offered for sale at a discounted price,0,1,restricted_explosive
+Modern bedside table made from wood,0,0,furniture
+Latest Aster mobile phone featuring 8GB RAM,0,0,mobile
+language learning book for students and professionals,0,0,books
+Seller message contains harassment toward the buyer,1,0,abusive
+Casual polo shirt for everyday wear,0,0,clothing
+water bottle for everyday household use,0,0,home
+Seller uses insulting language toward customers,1,0,abusive
+language learning book for students and professionals,0,0,books
+Educational history book in paperback format,0,0,books
+Restricted weapon product offered for sale,0,1,restricted_weapon
+Lumina smartphone with wireless support and long battery life,0,0,mobile
+cycling helmet for fitness and training,0,0,sports
+Business laptop featuring 8GB RAM,0,0,laptop
+Durable kitchen organizer for modern homes,0,0,home
+Stylish bookshelf with a bamboo finish,0,0,furniture
+Premium wall clock with practical design,0,0,home
+Durable office chair for home and office,0,0,furniture
+Online listing: alcohol beverage offered for sale,0,1,restricted_alcohol
+Durable running shoes for outdoor activities,0,0,sports
+Casual polo shirt for everyday wear,0,0,clothing
+Durable cycling helmet for outdoor activities,0,0,sports
+Casual cotton shirt for everyday wear,0,0,clothing
+Seller message contains harassment toward the buyer,1,0,abusive
+Smart computer mouse featuring long battery life,0,0,electronics
+Latest Apex mobile phone featuring 8GB RAM,0,0,mobile
+High performance laptop with wireless support,0,0,laptop
+bedsheet set for everyday household use,0,0,home
+This product listing contains a personal attack,1,0,abusive
+This listing contains an offensive personal insult,1,0,abusive
+Stylish study desk with a wood finish,0,0,furniture
+Zen laptop with Bluetooth connectivity,0,0,laptop
+Product text contains repeated offensive language,1,0,abusive
+Portable keyboard designed for everyday use,0,0,electronics
+Durable football for outdoor activities,0,0,sports
+High performance laptop with Bluetooth connectivity,0,0,laptop
+PixelPro laptop with fast charging,0,0,laptop
+This product listing contains a personal attack,1,0,abusive
+Listing text violates the platform language policy,1,0,abusive
+Men's casual jacket in wood,0,0,clothing
+Seller description: alcohol beverage offered for sale,0,1,restricted_alcohol
+Durable curtain set for modern homes,0,0,home
+Seller description: prescription-only medicine offered without proper authorization,0,1,restricted_medicine
+Business laptop featuring fast charging,0,0,laptop
+Business laptop featuring long battery life,0,0,laptop
+Prohibited weapon item advertised for purchase at a discounted price,0,1,restricted_weapon
+Premium Lumina smartphone with long battery life,0,0,mobile
+Seller description: other regulated product requiring authorization,0,1,restricted_other
+kitchen organizer for everyday household use,0,0,home
+Product text contains repeated offensive language Please review this listing.,1,0,abusive
+fiction novel for students and professionals,0,0,books
+Seller description: prohibited weapon item advertised for purchase,0,1,restricted_weapon
+Durable football for outdoor activities,0,0,sports
+Smart USB hub featuring fast charging,0,0,electronics
+PixelPro laptop with high resolution display,0,0,laptop
+Latest PixelPro mobile phone featuring long battery life,0,0,mobile
+Product description contains abusive language,1,0,abusive
+Modern bedside table made from metal,0,0,furniture
+Modern bedside table made from leather-style,0,0,furniture
+desk lamp for everyday household use,0,0,home
+Popular language learning book covering useful topics,0,0,books
+Restricted tobacco product offered for sale at a discounted price,0,1,restricted_tobacco
+Durable kitchen organizer for modern homes,0,0,home
+Portable smartwatch designed for everyday use,0,0,electronics
+High performance laptop with Bluetooth connectivity,0,0,laptop
+Online listing: restricted tobacco product offered for sale,0,1,restricted_tobacco
+Alcohol beverage offered for sale with home delivery,0,1,restricted_alcohol
+Durable storage box for modern homes,0,0,home
+Durable water bottle for modern homes,0,0,home
+Portable smartwatch designed for everyday use,0,0,electronics
+Business laptop featuring long battery life,0,0,laptop
+Modern dining table made from metal,0,0,furniture
+Premium water bottle with practical design,0,0,home
+Stylish dining table with a bamboo finish,0,0,furniture
+This product listing contains a personal attack,1,0,abusive
+Seller description: explosive material offered for sale,0,1,restricted_explosive
+data science guide for students and professionals,0,0,books
+Smart USB hub featuring long battery life,0,0,electronics
+USB hub with 8GB RAM,0,0,electronics
+Professional quality football for sports use,0,0,sports
+Premium storage box with practical design,0,0,home
+Seller has added inappropriate insults to the description Please review this listing.,1,0,abusive
+Popular Python programming book covering useful topics,0,0,books
+storage box for everyday household use,0,0,home
+Seller description: prohibited narcotic product listed for purchase,0,1,restricted_drug
+desk lamp for everyday household use,0,0,home
+water bottle for everyday household use,0,0,home
+Stylish office chair with a wood finish,0,0,furniture
+Product description contains abusive language,1,0,abusive
+Seller message contains harassment toward the buyer,1,0,abusive
+Zen laptop with long battery life,0,0,laptop
+Durable water bottle for modern homes,0,0,home
+fiction novel for students and professionals,0,0,books
+Business laptop featuring fast charging,0,0,laptop
+Stylish bedside table with a cotton finish,0,0,furniture
+Modern wardrobe made from bamboo,0,0,furniture
+Educational Python programming book in paperback format,0,0,books
+resistance bands for fitness and training,0,0,sports
+Durable cycling helmet for outdoor activities,0,0,sports
+Controlled medical product advertised for direct sale with home delivery,0,1,restricted_medicine
+Zen laptop with long battery life,0,0,laptop
+Description includes inappropriate and insulting wording,1,0,abusive
+Description contains threatening and abusive wording,1,0,abusive
+Popular Python programming book covering useful topics,0,0,books
+High performance laptop with fast charging,0,0,laptop
+cycling helmet for fitness and training,0,0,sports
+Stylish bookshelf with a cotton finish,0,0,furniture
+Premium Aster smartphone with fast charging,0,0,mobile
+Python programming book for students and professionals,0,0,books
+Durable storage box for modern homes,0,0,home
+Durable cricket bat for outdoor activities,0,0,sports
+High performance laptop with lightweight design,0,0,laptop
+This listing contains an offensive personal insult,1,0,abusive
+Seller description: restricted weapon product offered for sale,0,1,restricted_weapon
+Durable desk lamp for modern homes,0,0,home
+This listing contains an offensive personal insult,1,0,abusive
+Seller description: explosive material offered for sale,0,1,restricted_explosive
+Controlled medical product advertised for direct sale,0,1,restricted_medicine
+Bluetooth speaker with long battery life,0,0,electronics
+Premium Apex smartphone with high resolution display,0,0,mobile
+Popular mathematics workbook covering useful topics,0,0,books
+Listing text violates the platform language policy,1,0,abusive
+Men's hoodie in wood,0,0,clothing
+Educational language learning book in paperback format,0,0,books
+Educational business management book in paperback format,0,0,books
+Seller message contains harassment toward the buyer,1,0,abusive
+Smart Bluetooth speaker featuring Bluetooth connectivity,0,0,electronics
+Python programming book for students and professionals,0,0,books
+Latest Lumina mobile phone featuring dual cameras,0,0,mobile
+Educational fiction novel in paperback format,0,0,books
+Seller description: explosive material offered for sale,0,1,restricted_explosive
+PixelPro laptop with lightweight design,0,0,laptop
+Stylish office chair with a leather-style finish,0,0,furniture
+Latest Zen mobile phone featuring Bluetooth connectivity,0,0,mobile
+Product text contains repeated offensive language,1,0,abusive
+Professional quality fitness gloves for sports use,0,0,sports
+Premium storage box with practical design,0,0,home
+Latest Lumina mobile phone featuring lightweight design,0,0,mobile
+Durable water bottle for modern homes,0,0,home
+Description contains threatening and abusive wording,1,0,abusive
+Business laptop featuring long battery life,0,0,laptop
+Listing text violates the platform language policy,1,0,abusive
+High performance laptop with wireless support,0,0,laptop
+language learning book for students and professionals,0,0,books
+Portable wireless headphones designed for everyday use,0,0,electronics
+Popular history book covering useful topics,0,0,books
+High performance laptop with long battery life,0,0,laptop
+Product description contains abusive language Please review this listing.,1,0,abusive
+Online listing: alcohol beverage offered for sale,0,1,restricted_alcohol
+Seller uses insulting language toward customers Please review this listing.,1,0,abusive
+This product listing contains a personal attack,1,0,abusive
+Portable smartwatch designed for everyday use,0,0,electronics
+Stylish dining table with a wood finish,0,0,furniture
+Women's cotton shirt with comfortable bamboo fabric,0,0,clothing
+Nova smartphone with long battery life and long battery life,0,0,mobile
+smartwatch with Bluetooth connectivity,0,0,electronics
+Casual sweater for everyday wear,0,0,clothing
+Seller description: prohibited explosive product advertised online,0,1,restricted_explosive
+Apex smartphone with wireless support and long battery life,0,0,mobile
+Seller message contains harassment toward the buyer,1,0,abusive
+Durable office chair for home and office,0,0,furniture
+Other regulated product requiring authorization,0,1,restricted_other
+Casual trousers for everyday wear,0,0,clothing
+Casual summer dress for everyday wear,0,0,clothing
+history book for students and professionals,0,0,books
+High performance laptop with fast charging,0,0,laptop
+This listing contains an offensive personal insult,1,0,abusive
+Business laptop featuring high resolution display,0,0,laptop
+This listing contains an offensive personal insult,1,0,abusive
+Durable fitness gloves for outdoor activities,0,0,sports
+Educational history book in paperback format,0,0,books
+water bottle for everyday household use,0,0,home
+Python programming book for students and professionals,0,0,books
+Durable running shoes for outdoor activities,0,0,sports
+Educational history book in paperback format,0,0,books
+Prohibited weapon item advertised for purchase with home delivery,0,1,restricted_weapon
+Product text contains repeated offensive language,1,0,abusive
+Stylish coffee table with a bamboo finish,0,0,furniture
+Portable wireless headphones designed for everyday use,0,0,electronics
+Seller message contains harassment toward the buyer,1,0,abusive
+Prohibited explosive product advertised online,0,1,restricted_explosive
+Seller has added inappropriate insults to the description,1,0,abusive
+PixelPro smartphone with long battery life and long battery life,0,0,mobile
+Other regulated product requiring authorization,0,1,restricted_other
+Premium kitchen organizer with practical design,0,0,home
+Professional quality cricket bat for sports use,0,0,sports
+Durable yoga mat for outdoor activities,0,0,sports
+Latest Nova mobile phone featuring 8GB RAM,0,0,mobile
+Prohibited weapon item advertised for purchase,0,1,restricted_weapon
+This listing contains an offensive personal insult,1,0,abusive
+Description includes inappropriate and insulting wording,1,0,abusive
+High performance laptop with lightweight design,0,0,laptop
+Bluetooth speaker with long battery life,0,0,electronics
+Apex laptop with 8GB RAM,0,0,laptop
+Product text contains repeated offensive language Please review this listing.,1,0,abusive
+Prohibited narcotic product listed for purchase at a discounted price,0,1,restricted_drug
+Business laptop featuring lightweight design,0,0,laptop
+computer mouse with wireless support,0,0,electronics
+Seller description: prohibited explosive product advertised online,0,1,restricted_explosive
+Casual hoodie for everyday wear,0,0,clothing
+Business laptop featuring long battery life,0,0,laptop
+Orbit smartphone with lightweight design and long battery life,0,0,mobile
+Premium curtain set with practical design,0,0,home
+Seller description: restricted tobacco product offered for sale,0,1,restricted_tobacco
+Online listing: other regulated product requiring authorization,0,1,restricted_other
+Durable cycling helmet for outdoor activities,0,0,sports
+Illegal drug product advertised for sale at a discounted price,0,1,restricted_drug
+business management book for students and professionals,0,0,books
+Business laptop featuring dual cameras,0,0,laptop
+Durable cricket bat for outdoor activities,0,0,sports
+Smart webcam featuring high resolution display,0,0,electronics
+Online listing: explosive material offered for sale,0,1,restricted_explosive
+Business laptop featuring Bluetooth connectivity,0,0,laptop
+Smart USB hub featuring 8GB RAM,0,0,electronics
+Men's trousers in metal,0,0,clothing
+Seller description: prohibited explosive product advertised online,0,1,restricted_explosive
+Modern coffee table made from bamboo,0,0,furniture
+Durable bedsheet set for modern homes,0,0,home
+Educational fiction novel in paperback format,0,0,books
+Modern bookshelf made from leather-style,0,0,furniture
+Premium PixelPro smartphone with wireless support,0,0,mobile
+Online listing: prescription-only medicine offered without proper authorization,0,1,restricted_medicine
+Prohibited narcotic product listed for purchase at a discounted price,0,1,restricted_drug
+Lumina smartphone with Bluetooth connectivity and long battery life,0,0,mobile
+Popular fiction novel covering useful topics,0,0,books
+Seller description: restricted weapon product offered for sale,0,1,restricted_weapon
+Women's polo shirt with comfortable wood fabric,0,0,clothing
+Bluetooth speaker with fast charging,0,0,electronics
+Portable USB hub designed for everyday use,0,0,electronics
+Durable coffee table for home and office,0,0,furniture
+Men's sweater in cotton,0,0,clothing
+Latest Nova mobile phone featuring wireless support,0,0,mobile
+Premium Lumina smartphone with 8GB RAM,0,0,mobile
+Online listing: alcohol beverage offered for sale,0,1,restricted_alcohol
+Portable Bluetooth speaker designed for everyday use,0,0,electronics
+Premium water bottle with practical design,0,0,home
+This listing contains an offensive personal insult,1,0,abusive
+Durable study desk for home and office,0,0,furniture
+fiction novel for students and professionals,0,0,books
+Professional quality running shoes for sports use,0,0,sports
+Nova smartphone with 8GB RAM and long battery life,0,0,mobile
+Premium Nova smartphone with dual cameras,0,0,mobile
+Description includes inappropriate and insulting wording,1,0,abusive
+This listing contains an offensive personal insult,1,0,abusive
+business management book for students and professionals,0,0,books
+business management book for students and professionals,0,0,books
+Popular Python programming book covering useful topics,0,0,books
+Premium Nova smartphone with fast charging,0,0,mobile
+Durable coffee table for home and office,0,0,furniture
+Latest Nova mobile phone featuring high resolution display,0,0,mobile
+Men's summer dress in bamboo,0,0,clothing
+Prescription-only medicine offered without proper authorization,0,1,restricted_medicine
+This listing contains an offensive personal insult,1,0,abusive
+Casual polo shirt for everyday wear,0,0,clothing
+Durable dining table for home and office,0,0,furniture
+Seller has added inappropriate insults to the description,1,0,abusive
+This listing contains an offensive personal insult,1,0,abusive
+Professional quality yoga mat for sports use,0,0,sports
+Controlled medical product advertised for direct sale at a discounted price,0,1,restricted_medicine
+Online listing: prohibited weapon item advertised for purchase,0,1,restricted_weapon
+Premium Zen smartphone with fast charging,0,0,mobile
+Durable water bottle for modern homes,0,0,home
+Smart computer mouse featuring lightweight design,0,0,electronics
+Educational fiction novel in paperback format,0,0,books
+Stylish dining table with a wood finish,0,0,furniture
+kitchen organizer for everyday household use,0,0,home
+Women's trousers with comfortable metal fabric,0,0,clothing
+PixelPro laptop with lightweight design,0,0,laptop
+Prohibited explosive product advertised online at a discounted price,0,1,restricted_explosive
+Prescription-only medicine offered without proper authorization,0,1,restricted_medicine
+Portable smartwatch designed for everyday use,0,0,electronics
+desk lamp for everyday household use,0,0,home
+Seller message contains harassment toward the buyer,1,0,abusive
+This product listing contains a personal attack,1,0,abusive
+Prescription-only medicine offered without proper authorization with home delivery,0,1,restricted_medicine
+Men's sweater in metal,0,0,clothing
+Durable fitness gloves for outdoor activities,0,0,sports
+Premium PixelPro smartphone with 8GB RAM,0,0,mobile
+resistance bands for fitness and training,0,0,sports
+webcam with 8GB RAM,0,0,electronics
+Seller description: explosive material offered for sale,0,1,restricted_explosive
+Modern bedside table made from leather-style,0,0,furniture
+curtain set for everyday household use,0,0,home
+Aster smartphone with 8GB RAM and long battery life,0,0,mobile
+Durable office chair for home and office,0,0,furniture
+Modern study desk made from leather-style,0,0,furniture
+webcam with 8GB RAM,0,0,electronics
+Educational data science guide in paperback format,0,0,books
+Premium curtain set with practical design,0,0,home
+Business laptop featuring wireless support,0,0,laptop
+Stylish wardrobe with a leather-style finish,0,0,furniture
+wall clock for everyday household use,0,0,home
+Prescription-only medicine offered without proper authorization,0,1,restricted_medicine
+Product description contains abusive language Please review this listing.,1,0,abusive
+Business laptop featuring wireless support,0,0,laptop
+Men's summer dress in metal,0,0,clothing
+Nova laptop with Bluetooth connectivity,0,0,laptop
+Educational Python programming book in paperback format,0,0,books
+Stylish study desk with a leather-style finish,0,0,furniture
+Durable wardrobe for home and office,0,0,furniture
+Stylish wardrobe with a leather-style finish,0,0,furniture
+fiction novel for students and professionals,0,0,books
+history book for students and professionals,0,0,books
+Premium Nova smartphone with Bluetooth connectivity,0,0,mobile
+This listing contains an offensive personal insult,1,0,abusive
+webcam with wireless support,0,0,electronics
+Men's sweater in wood,0,0,clothing
+Restricted weapon product offered for sale,0,1,restricted_weapon
+Men's cotton shirt in cotton,0,0,clothing
+computer mouse with fast charging,0,0,electronics
+cricket bat for fitness and training,0,0,sports
+Product text contains repeated offensive language Please review this listing.,1,0,abusive
+Portable computer mouse designed for everyday use,0,0,electronics
+Description includes inappropriate and insulting wording,1,0,abusive
+language learning book for students and professionals,0,0,books
+Latest Aster mobile phone featuring Bluetooth connectivity,0,0,mobile
+Professional quality cycling helmet for sports use,0,0,sports
+Online listing: restricted tobacco product offered for sale,0,1,restricted_tobacco
+Seller uses insulting language toward customers,1,0,abusive
+High performance laptop with high resolution display,0,0,laptop
+Casual cotton shirt for everyday wear,0,0,clothing
+Premium Zen smartphone with lightweight design,0,0,mobile
+Listing text violates the platform language policy,1,0,abusive
+Latest Apex mobile phone featuring wireless support,0,0,mobile
+Durable coffee table for home and office,0,0,furniture
+Women's polo shirt with comfortable cotton fabric,0,0,clothing
+running shoes for fitness and training,0,0,sports
+Men's sweater in cotton,0,0,clothing
+Women's summer dress with comfortable bamboo fabric,0,0,clothing
+Product description contains abusive language,1,0,abusive
+Seller message contains harassment toward the buyer Please review this listing.,1,0,abusive
+Premium Apex smartphone with fast charging,0,0,mobile
+smartwatch with lightweight design,0,0,electronics
+Listing text violates the platform language policy,1,0,abusive
+Modern dining table made from bamboo,0,0,furniture
+Durable curtain set for modern homes,0,0,home
+mathematics workbook for students and professionals,0,0,books
+Description includes inappropriate and insulting wording,1,0,abusive
+Description includes inappropriate and insulting wording,1,0,abusive
+Women's sweater with comfortable metal fabric,0,0,clothing
+Seller has added inappropriate insults to the description Please review this listing.,1,0,abusive
+High performance laptop with high resolution display,0,0,laptop
+Seller uses insulting language toward customers,1,0,abusive
+Listing text violates the platform language policy,1,0,abusive
+Description contains threatening and abusive wording,1,0,abusive
+Casual hoodie for everyday wear,0,0,clothing
+Product text contains repeated offensive language,1,0,abusive
+Description includes inappropriate and insulting wording,1,0,abusive
+Premium wall clock with practical design,0,0,home
+Modern wardrobe made from wood,0,0,furniture
+wall clock for everyday household use,0,0,home
+Educational mathematics workbook in paperback format,0,0,books
+Restricted weapon product offered for sale,0,1,restricted_weapon
+Prescription-only medicine offered without proper authorization with home delivery,0,1,restricted_medicine
+Business laptop featuring Bluetooth connectivity,0,0,laptop
+Online listing: prohibited weapon item advertised for purchase,0,1,restricted_weapon
+Business laptop featuring lightweight design,0,0,laptop
+Smart USB hub featuring high resolution display,0,0,electronics
+Business laptop featuring high resolution display,0,0,laptop
+Popular fiction novel covering useful topics,0,0,books
+Women's polo shirt with comfortable metal fabric,0,0,clothing
+Latest Aster mobile phone featuring dual cameras,0,0,mobile
+yoga mat for fitness and training,0,0,sports
+Women's summer dress with comfortable bamboo fabric,0,0,clothing
+Premium bedsheet set with practical design,0,0,home
+Seller description: controlled medical product advertised for direct sale,0,1,restricted_medicine
+Women's trousers with comfortable wood fabric,0,0,clothing
+Online listing: illegal drug product advertised for sale,0,1,restricted_drug
+water bottle for everyday household use,0,0,home
+Zen smartphone with fast charging and long battery life,0,0,mobile
+Alcohol beverage offered for sale,0,1,restricted_alcohol
+Smart USB hub featuring 8GB RAM,0,0,electronics
+Premium curtain set with practical design,0,0,home
+Stylish bookshelf with a metal finish,0,0,furniture
+resistance bands for fitness and training,0,0,sports
+Controlled medical product advertised for direct sale with home delivery,0,1,restricted_medicine
+Portable computer mouse designed for everyday use,0,0,electronics
+Aster laptop with dual cameras,0,0,laptop
+High performance laptop with dual cameras,0,0,laptop
+Seller message contains harassment toward the buyer,1,0,abusive
+Popular data science guide covering useful topics,0,0,books
+Popular fiction novel covering useful topics,0,0,books
+Seller description: prohibited narcotic product listed for purchase,0,1,restricted_drug
+Educational business management book in paperback format,0,0,books
+Portable computer mouse designed for everyday use,0,0,electronics
+Stylish dining table with a leather-style finish,0,0,furniture
+Durable wardrobe for home and office,0,0,furniture
+Casual cotton shirt for everyday wear,0,0,clothing
+Illegal drug product advertised for sale with home delivery,0,1,restricted_drug
+Portable webcam designed for everyday use,0,0,electronics
+resistance bands for fitness and training,0,0,sports
+Premium Apex smartphone with wireless support,0,0,mobile
+Professional quality running shoes for sports use,0,0,sports
+Women's summer dress with comfortable metal fabric,0,0,clothing
+Stylish dining table with a bamboo finish,0,0,furniture
+Restricted weapon product offered for sale,0,1,restricted_weapon
+Premium Apex smartphone with high resolution display,0,0,mobile
+resistance bands for fitness and training,0,0,sports
+Online listing: controlled medical product advertised for direct sale,0,1,restricted_medicine
+High performance laptop with high resolution display,0,0,laptop
+Product text contains repeated offensive language,1,0,abusive
+Modern coffee table made from wood,0,0,furniture
+Stylish study desk with a leather-style finish,0,0,furniture
+Product description contains abusive language Please review this listing.,1,0,abusive
+Python programming book for students and professionals,0,0,books
+Product text contains repeated offensive language,1,0,abusive
+High performance laptop with 8GB RAM,0,0,laptop
+Modern coffee table made from leather-style,0,0,furniture
+This product listing contains a personal attack,1,0,abusive
+Women's summer dress with comfortable metal fabric,0,0,clothing
+Educational business management book in paperback format,0,0,books
+Prohibited explosive product advertised online at a discounted price,0,1,restricted_explosive
+desk lamp for everyday household use,0,0,home
+Professional quality resistance bands for sports use,0,0,sports
+Product text contains repeated offensive language,1,0,abusive
+Explosive material offered for sale at a discounted price,0,1,restricted_explosive
+Durable office chair for home and office,0,0,furniture
+Portable USB hub designed for everyday use,0,0,electronics
+Premium PixelPro smartphone with lightweight design,0,0,mobile
+Listing text violates the platform language policy Please review this listing.,1,0,abusive
+Seller uses insulting language toward customers,1,0,abusive
+Premium PixelPro smartphone with fast charging,0,0,mobile
+Educational mathematics workbook in paperback format,0,0,books
+Educational Python programming book in paperback format,0,0,books
+resistance bands for fitness and training,0,0,sports
+Premium water bottle with practical design,0,0,home
+Seller message contains harassment toward the buyer,1,0,abusive
+Apex laptop with fast charging,0,0,laptop
+Popular fiction novel covering useful topics,0,0,books
+This listing contains an offensive personal insult,1,0,abusive
+Illegal drug product advertised for sale at a discounted price,0,1,restricted_drug
+Restricted weapon product offered for sale with home delivery,0,1,restricted_weapon
+Zen laptop with 8GB RAM,0,0,laptop
+Educational history book in paperback format,0,0,books
+Explosive material offered for sale with home delivery,0,1,restricted_explosive
+Smart keyboard featuring wireless support,0,0,electronics
+Zen smartphone with high resolution display and long battery life,0,0,mobile
+Durable kitchen organizer for modern homes,0,0,home
+Illegal drug product advertised for sale with home delivery,0,1,restricted_drug
+Aster smartphone with wireless support and long battery life,0,0,mobile
+Business laptop featuring high resolution display,0,0,laptop
+Prohibited weapon item advertised for purchase with home delivery,0,1,restricted_weapon
+Product description contains abusive language,1,0,abusive
+Prescription-only medicine offered without proper authorization at a discounted price,0,1,restricted_medicine
+Modern wardrobe made from leather-style,0,0,furniture
+Prohibited narcotic product listed for purchase at a discounted price,0,1,restricted_drug
+data science guide for students and professionals,0,0,books
+Casual casual jacket for everyday wear,0,0,clothing
+Casual sweater for everyday wear,0,0,clothing
+Popular business management book covering useful topics,0,0,books
+Professional quality resistance bands for sports use,0,0,sports
+Women's sweater with comfortable bamboo fabric,0,0,clothing
+Smart USB hub featuring lightweight design,0,0,electronics
+Casual hoodie for everyday wear,0,0,clothing
+mathematics workbook for students and professionals,0,0,books
+Seller uses insulting language toward customers,1,0,abusive
+Description includes inappropriate and insulting wording Please review this listing.,1,0,abusive
+Description contains threatening and abusive wording,1,0,abusive
+smartwatch with lightweight design,0,0,electronics
+This listing contains an offensive personal insult,1,0,abusive
+This product listing contains a personal attack,1,0,abusive
+Illegal drug product advertised for sale with home delivery,0,1,restricted_drug
+Smart keyboard featuring 8GB RAM,0,0,electronics
+Premium Zen smartphone with wireless support,0,0,mobile
+High performance laptop with fast charging,0,0,laptop
+water bottle for everyday household use,0,0,home
+Women's trousers with comfortable cotton fabric,0,0,clothing
+Explosive material offered for sale at a discounted price,0,1,restricted_explosive
+Business laptop featuring lightweight design,0,0,laptop
+Listing text violates the platform language policy,1,0,abusive
+Casual trousers for everyday wear,0,0,clothing
+Durable cricket bat for outdoor activities,0,0,sports
+storage box for everyday household use,0,0,home
+Durable office chair for home and office,0,0,furniture
+Latest Orbit mobile phone featuring fast charging,0,0,mobile
+Stylish wardrobe with a wood finish,0,0,furniture
+Portable Bluetooth speaker designed for everyday use,0,0,electronics
+Product text contains repeated offensive language Please review this listing.,1,0,abusive
+Premium Lumina smartphone with 8GB RAM,0,0,mobile
+Smart smartwatch featuring 8GB RAM,0,0,electronics
+Seller has added inappropriate insults to the description,1,0,abusive
+Portable wireless headphones designed for everyday use,0,0,electronics
+High performance laptop with high resolution display,0,0,laptop
+Description contains threatening and abusive wording Please review this listing.,1,0,abusive
+Smart wireless headphones featuring wireless support,0,0,electronics
+Educational language learning book in paperback format,0,0,books
+Women's summer dress with comfortable wood fabric,0,0,clothing
+Apex smartphone with dual cameras and long battery life,0,0,mobile
+Popular data science guide covering useful topics,0,0,books
+Popular Python programming book covering useful topics,0,0,books
+resistance bands for fitness and training,0,0,sports
+Prescription-only medicine offered without proper authorization at a discounted price,0,1,restricted_medicine
+Premium water bottle with practical design,0,0,home
+Prescription-only medicine offered without proper authorization,0,1,restricted_medicine
+Portable Bluetooth speaker designed for everyday use,0,0,electronics
+cricket bat for fitness and training,0,0,sports
+Casual sweater for everyday wear,0,0,clothing
+Premium water bottle with practical design,0,0,home
+Bluetooth speaker with dual cameras,0,0,electronics
+Online listing: alcohol beverage offered for sale,0,1,restricted_alcohol
+Portable smartwatch designed for everyday use,0,0,electronics
+Orbit laptop with lightweight design,0,0,laptop
+Latest Vertex mobile phone featuring Bluetooth connectivity,0,0,mobile
+Premium Apex smartphone with lightweight design,0,0,mobile
+Premium Apex smartphone with dual cameras,0,0,mobile
+Product text contains repeated offensive language,1,0,abusive
+Men's hoodie in bamboo,0,0,clothing
+Description contains threatening and abusive wording Please review this listing.,1,0,abusive
+Prohibited weapon item advertised for purchase at a discounted price,0,1,restricted_weapon
+Portable smartwatch designed for everyday use,0,0,electronics
+Smart webcam featuring wireless support,0,0,electronics
+Premium water bottle with practical design,0,0,home
+Smart wireless headphones featuring fast charging,0,0,electronics
+water bottle for everyday household use,0,0,home
+Portable webcam designed for everyday use,0,0,electronics
+computer mouse with wireless support,0,0,electronics
+Educational business management book in paperback format,0,0,books
+Professional quality resistance bands for sports use,0,0,sports
+desk lamp for everyday household use,0,0,home
+Popular history book covering useful topics,0,0,books
+Aster smartphone with 8GB RAM and long battery life,0,0,mobile
+Women's hoodie with comfortable wood fabric,0,0,clothing
+Smart USB hub featuring 8GB RAM,0,0,electronics
+High performance laptop with wireless support,0,0,laptop
+This product listing contains a personal attack,1,0,abusive
+Premium curtain set with practical design,0,0,home
+kitchen organizer for everyday household use,0,0,home
+Explosive material offered for sale with home delivery,0,1,restricted_explosive
+Seller message contains harassment toward the buyer,1,0,abusive
+Illegal drug product advertised for sale at a discounted price,0,1,restricted_drug
+Durable water bottle for modern homes,0,0,home
+Listing text violates the platform language policy,1,0,abusive
+Premium Zen smartphone with high resolution display,0,0,mobile
+Premium wall clock with practical design,0,0,home
+Durable bookshelf for home and office,0,0,furniture
+Men's summer dress in wood,0,0,clothing
+Casual polo shirt for everyday wear,0,0,clothing
+Prohibited explosive product advertised online at a discounted price,0,1,restricted_explosive
+Bluetooth speaker with 8GB RAM,0,0,electronics
+Seller description: restricted weapon product offered for sale,0,1,restricted_weapon
+Smart computer mouse featuring fast charging,0,0,electronics
+Stylish bedside table with a leather-style finish,0,0,furniture
+Seller message contains harassment toward the buyer,1,0,abusive
+Bluetooth speaker with Bluetooth connectivity,0,0,electronics
+Premium Aster smartphone with Bluetooth connectivity,0,0,mobile
+Portable smartwatch designed for everyday use,0,0,electronics
+Casual trousers for everyday wear,0,0,clothing
